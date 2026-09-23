@@ -85,7 +85,7 @@ Total Orders = DISTINCTCOUNT(Sales[Order ID])
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Visualization.png)
 
 ## 📂 Project Files
 
